@@ -1,0 +1,27 @@
+{ "_brand-styled": "CWC Redux Starter"
+, "footer-content":
+  [ "2015 Clearwater Clinical"
+  , "CWC React Starter"
+  ]
+, "login": "Login"
+, "logging-in": "Logging in..."
+, "login-page-welcome": "Welcome to <brand>"
+, "html-not-found-message": "No page found. Try <a href=\"/spa/login\">logging in</a>."
+, "navigation":
+  { "broken": "Broken Link"
+  , "login": "Login"
+  , "dashboard": "Dashboard Page"
+  , "logout": "Logout"
+  }
+, "password": "Password"
+, "password-required": "Please enter your password to login."
+, "title":
+  { "welcome": "Hello,"
+  , "not-found": "No page found"
+  }
+, "username": "Username"
+, "username-required": "Please provide a username to login."
+, "web": "Web"
+, "welcome-title": "Hello,"
+, "welcome-message": "Now it's time for you to start doing things."
+}
